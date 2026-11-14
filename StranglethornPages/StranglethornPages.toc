@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Stranglethorn Pages
+## Notes: Checklist for the Green Hills of Stranglethorn pages: what you have, where the rest is.
+## Version: 1.0.0
+## SavedVariables: StranglethornPagesDB
+
+Data.lua
+Tracker.lua
+UI.lua

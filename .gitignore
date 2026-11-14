@@ -1,0 +1,7 @@
+# Local tool state, not part of the project
+.claude/
+.obsidian/
+
+# Packaged builds
+*.zip
+release/
